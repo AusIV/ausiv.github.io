@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-<center><a href="/">Austin Roberts</a> is a freelance software developer</center>
+<center><a href="/">Austin Roberts</a> is a freelance software developer. <br/>[<a href="/assets/resume.pdf">CV</a>]</center>
 
 ## Technology
 
@@ -29,6 +29,8 @@ And I've worked extensively with the following software:
 * [Jenkins](https://jenkins.io/)
 * [Gatling](http://gatling.io/)
 
+And I've had some experience with numerous other technologies.
+
 While my background is primarily in software I also tinker with electronics,
 ranging from mobile devices to the Raspberry Pi.
 
@@ -45,8 +47,8 @@ of our society.
 
 Until very recently, I worked for Computerized Assessments and Learning, hoping
 to combine two of my passions and use technology to help further education. As
-CA&L was dissolved and absorbed into its parent company, I felt its focus was
-narrowed, and decided to go freelance to pursue these passions independently.
+CA&L was dissolved and absorbed into its parent company, I decided to go
+freelance to pursue these passions independently.
 
 ## Family
 
