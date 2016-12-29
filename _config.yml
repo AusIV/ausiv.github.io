@@ -1,7 +1,7 @@
 # Site
 title:              Austin Roberts
-bio:                'Freelance software developer'
-description:        "Austin is a freelance software developer with an interest in security, a passion for open source, and an obsession with education"
+bio:                'Freelance software consultant'
+description:        "Austin is a freelance software consultant with an interest in security, a passion for open source, and an obsession with education"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -32,7 +32,7 @@ sass:
 # if you don't have any of social below, comment the line.
 google:
   plus: AustinRobertsAusIV           #username
-  #analytics:
+  analytics: UA-89597058-1
   #verify:
   #ad-client:
   #ad-slot:

@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-<center><a href="/">Austin Roberts</a> is a freelance software developer. <br/>[<a href="/assets/resume.pdf">CV</a>]</center>
+<center><a href="/">Austin Roberts</a> is a freelance software consultant. <br/>[<a href="/assets/resume.pdf">CV</a>]</center>
 
 ## Technology
 
