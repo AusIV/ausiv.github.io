@@ -2,11 +2,12 @@
 layout: page
 title: About Austin
 tags: [about]
-date: 2016-03-21
+date: 2017-01-17
 comments: false
 ---
 
-<center><a href="/">Austin Roberts</a> is a freelance software consultant. <br/>[<a href="/assets/resume.pdf">CV</a>]</center>
+<center><a href="/">Austin Roberts</a> is a freelance software consultant
+based out of Kansas City. <br/>[<a href="/assets/resume.pdf">CV</a>]</center>
 
 ## Technology
 
