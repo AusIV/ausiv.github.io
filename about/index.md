@@ -6,8 +6,14 @@ date: 2017-01-17
 comments: false
 ---
 
-<center><a href="/">Austin Roberts</a> is a freelance software consultant
+<center><a href="/">Austin Roberts</a> is an entrepreneur and technology consultant
 based out of Kansas City. <br/>[<a href="/assets/resume.pdf">CV</a>]</center>
+
+## Business
+
+Austin is an entrepreneur, having founded [Note G](https://noteg.io) - a small
+consulting company, and [OpenRelay](https://openrelay.xyz) - a company building
+technology to facilitate decentralized trading of digitalized assets.
 
 ## Technology
 
@@ -18,9 +24,11 @@ I've always had a passion for technology and the ways it can improve people's li
 * Development Team Lead
 * DevOps lead
 * Software Architect
+* Blockchain Developer
 
 And I've worked extensively with the following software:
 
+* [Golang](https://golang.org/)
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com/)
 * JavaScript
@@ -29,6 +37,8 @@ And I've worked extensively with the following software:
 * [SaltStack](https://saltstack.com/)
 * [Jenkins](https://jenkins.io/)
 * [Gatling](http://gatling.io/)
+* [0x Protocol](https://0xproject.com/)
+* [Ethereum](https://ethereum.org/)
 
 And I've had some experience with numerous other technologies.
 
@@ -46,10 +56,10 @@ well educated people, and I think bringing the best possible education to the
 widest possible audience is one of the best ways to accelerate the advancement
 of our society.
 
-Until very recently, I worked for Computerized Assessments and Learning, hoping
-to combine two of my passions and use technology to help further education. As
-CA&L was dissolved and absorbed into its parent company, I decided to go
-freelance to pursue these passions independently.
+For a couple of years I worked for Computerized Assessments and Learning,
+hoping to combine two of my passions and use technology to help further
+education. As CA&L was dissolved and absorbed into its parent company, I
+decided to start consulting  to pursue these passions independently.
 
 ## Family
 
