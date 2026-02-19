@@ -30,7 +30,7 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 google:
-  plus: AustinRobertsAusIV           #username
+  #plus: AustinRobertsAusIV           #username
   analytics: UA-89597058-1
   #verify:
   #ad-client:
@@ -40,7 +40,7 @@ email: waroberts@ausiv.com
 # twitter:            username
 # facebook:           username
 github-url:         ausiv
-stackoverflow:     2509468/ausiv   #from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     2509468/ausiv   #from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          austin-roberts-89564a24
 #xing:              username
 # instagram:          username
@@ -56,7 +56,7 @@ linkedin:          austin-roberts-89564a24
 #weibo:             username
 #flickr:            username
 #codepen:           username
-keybase:           ausiv
+#keybase:           ausiv
 #xmpp:              username@server.com
 #hackernews:        username
 
